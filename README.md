@@ -1,6 +1,6 @@
-# Welcome to Applied Machine Learning Course (F25)
+# Welcome to Applied Machine Learning Course (F26)
 
-Rahman Peimankar, 2025
+Rahman Peimankar, 2026
 
 The Maersk Mc-Kinney Møller Institute - University of Southern Denmark
 
