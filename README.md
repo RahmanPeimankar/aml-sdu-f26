@@ -7,3 +7,5 @@ You only need to launch Colab by clicking on the above logo. This will basically
 Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%201/aml_1_introduction_basics.ipynb)
 
 Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%202/aml_2_intro_supervised_learning.ipynb)
+
+Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%203/aml_3_preprocessing_and_feature_transformation.ipynb)
