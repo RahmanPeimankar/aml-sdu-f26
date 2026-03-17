@@ -13,3 +13,5 @@ Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%204/aml_4_linear_models_for_regression.ipynb)
 
 Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%205/aml_5_linear_models_for_classification.ipynb)
+
+Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%206/aml_6_non-linear_models.ipynb)
