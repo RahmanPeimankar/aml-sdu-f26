@@ -17,3 +17,5 @@ Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%206/aml_6_non-linear_models.ipynb)
 
 Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%207/aml_7_model_evaluation_imbalanced_learning.ipynb)
+
+Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%208/aml_8_feature_selection_automl_parameters_tuning.ipynb)
