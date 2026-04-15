@@ -21,3 +21,5 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%208/aml_8_feature_selection_automl_parameters_tuning.ipynb)
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%209/aml_9_dimensionality_reduction_clustring_outlier_detection.ipynb)
+
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f26/blob/master/Lecture%2010/aml_10_neural_networks.ipynb)
